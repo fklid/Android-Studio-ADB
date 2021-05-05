@@ -1,11 +1,11 @@
 
-adb shell screencap /storage/emulated/0/DCIM/screen_17.png && adb pull /storage/emulated/0/DCIM/screen_17.png /Users/vadimksendzov/Work_2/Android/screen_17.png
+adb shell screencap /storage/emulated/0/DCIM/screen_17.png && adb pull /storage/emulated/0/DCIM/screen_17.png /Users/Work_2/Android/screen_17.png
 
 **делаем скриншот с тел. И сохраняем на комп.**
 
 ----------
 
-adb logcat | grep -rnw "com.android. prilogenie " > /Users/vadimksendzov/Work_2/Android/crash_17.log
+adb logcat | grep -rnw "com.android. prilogenie " > /Users/Work_2/Android/crash_17.log
 
 **Сохраняем лог накомп**
 
