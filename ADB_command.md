@@ -210,4 +210,4 @@ adb connect ***IP телефона в сети WiFi***:4444
 1.                                  1 or all, adb, sockets, packets, rwx, usb, sync, sysdeps, transport, jdwp
 1.   ANDROID_SERIAL               - The serial number to connect to. -s takes priority over this if given.
 1.   ANDROID_LOG_TAGS             - When used with the logcat option, only these debug tags are printed.
-1. 
+
